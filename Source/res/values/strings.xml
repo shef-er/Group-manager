@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Group Manager</string>
+    
+    <string name="title_activity_main">Groups</string>
+    <string name="title_activity_student_list">List of Students</string>
+    <string name="title_activity_student_details">Student\'s Details</string>
+    <string name="title_activity_group_creator">Add a group</string>
+    <string name="title_activity_group_editor">Edit a group</string>
+    <string name="title_activity_student_creator">Add a student</string>
+    <string name="title_activity_student_editor">Edit a student</string>
+    <string name="menu_about">About</string>
+    
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_done">Done</string>
+    
+    <string name="group_number_hint">Group name</string>
+    <string name="group_faculty_hint">Faculty</string>    
+    <string name="student_firstname_hint">Firstname</string>
+    <string name="student_surname_hint">Surname</string>
+    <string name="student_patronymic_hint">Patronymic</string>    
+    <string name="student_dob_hint">Date of Birth</string>   
+    <string name="student_photo_description">Student Photo</string>
+    
+    <string name="student_add_photo">Capture</string>
+    
+    <string name="student_details_name">Name: </string>
+    <string name="student_details_dob">Date of Birth: </string>
+    <string name="student_details_group">Group: </string>
+   
+    
+    <string name="group_protection_toast">Group isn\'t empty.</string>
+    
+    <string name="group_incorrect_input_toast">Group name is empty</string>
+    <string name="student_incorrect_input_toast">Student name or surname is empty</string>
+    
+    <string name="exit_confirm">Are you sure you want to exit?</string>
+    <string name="exit_confirm_positive">Yes</string>
+    <string name="exit_confirm_negative">No</string>
+
+</resources>

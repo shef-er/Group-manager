@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="action_add">Добавить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_done">Готово</string>
+    <string name="action_edit">Изменить</string>
+    <string name="app_name">Менеджер групп</string>
+    <string name="group_faculty_hint">Факультет</string>
+    <string name="group_number_hint">Имя группы</string>
+    <string name="group_protection_toast">Группа не пуста</string>
+    <string name="menu_about">О приложении</string>
+    <string name="student_dob_hint">Дата рождения</string>
+    <string name="student_firstname_hint">Имя</string>
+    <string name="student_patronymic_hint">Отчество</string>
+    <string name="student_surname_hint">Фамилия</string>
+    <string name="student_add_photo">Сфотографировать</string>
+    <string name="title_activity_group_creator">Добавить группу</string>
+    <string name="title_activity_group_editor">Изменить группу</string>
+    <string name="title_activity_student_creator">Добавить студента</string>
+    <string name="title_activity_student_details">Информация о студенте</string>
+    <string name="title_activity_student_editor">Изменить</string>
+    <string name="title_activity_student_list">Список  студентов</string>
+    <string name="exit_confirm">Выйти из приложения?</string>
+    <string name="exit_confirm_positive">Да</string>
+    <string name="exit_confirm_negative">Нет</string>    
+    <string name="student_details_name">Имя: </string>
+    <string name="student_details_dob">Дата рождения: </string>
+    <string name="student_details_group">Группа: </string>
+    <string name="group_incorrect_input_toast">Имя группы незаполнено</string>
+    <string name="student_incorrect_input_toast">Имя или фамилия студента не заполнены</string>
+    <string name="student_photo_description">Фото студента</string>
+
+</resources>
